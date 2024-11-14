@@ -19,7 +19,7 @@ title: Minu.blog # the main title
 tagline: 사랑받기 보다는 사랑하게.
 
 description: >- # used by seo meta and the atom feed
-  A developer's journal documenting projects, coding insights, and continuous learning in software development. Sharing knowledge on backend systems, web technologies, and programming tips.
+  개발자 최민우 블로그입니다. 프로젝트, 개발, 학습을 기록하고 공유합니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: Sunkist18 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-04P52G0NBD # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
