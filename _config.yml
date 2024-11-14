@@ -16,7 +16,10 @@ timezone: Asia/Seoul
 
 title: Minu.blog # the main title
 
-tagline: 위로받기 보다는 위로하고. 이해받기 보다는 이해하고. 사랑받기 보다는 사랑하게. # it will display as the subtitle
+tagline: |
+  위로받기 보다는 위로하고.
+  이해받기 보다는 이해하고.
+  사랑받기 보다는 사랑하게.
 
 description: >- # used by seo meta and the atom feed
   A developer's journal documenting projects, coding insights, and continuous learning in software development. Sharing knowledge on backend systems, web technologies, and programming tips.
