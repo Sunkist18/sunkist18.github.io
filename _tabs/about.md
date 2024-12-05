@@ -70,7 +70,7 @@ order: 4
 
 ![](assets/img/about/aa.png)
 
-{% include embed/video.html src='assets/video/mockingbird.mp4' %}
+{% include embed/video.html src='assets/video/mockingbird.mp4' poster='assets/img/about/mh.png' %}
 - [**모킹버드 B2B SaaS 문제은행 데모 사이트**](https://saas.demo.mockingbird.co.kr/):  
   **모킹버드**에서 B2B용으로 개발한 SaaS 서비스입니다.
   Windos OS 위에 Django 서버를 통해 구축하였습니다.  
