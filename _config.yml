@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Minu.blog # the main title
+title: 최 민우 # the main title
 
-tagline: 새로운 도전과 성장을 지향하는 개발자 최민우입니다.
+tagline: 개발자 최민우입니다.
 
 description: >- # used by seo meta and the atom feed
   새로운 도전과 성장을 지향하는 개발자 최민우입니다.
