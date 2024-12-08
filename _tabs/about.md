@@ -73,7 +73,7 @@ order: 4
 {% include embed/video.html src='assets/video/mockingbird.mp4' poster='assets/img/about/mh.png' %}
 - [**모킹버드 B2B SaaS 문제은행 데모 사이트**](https://saas.demo.mockingbird.co.kr/):  
   **모킹버드**에서 B2B용으로 개발한 SaaS 서비스입니다.
-  Windos OS 위에 Django 서버를 통해 구축하였습니다.  
+  Windows OS 위에 Django 서버를 통해 구축하였습니다.  
   이 프로젝트는 백엔드 팀과의 긴밀한 협업을 통해, API 및 DB 설계 등 많은 부분을 기여했습니다.
 
 - **개념원리 한글 변환기 개발**:  
