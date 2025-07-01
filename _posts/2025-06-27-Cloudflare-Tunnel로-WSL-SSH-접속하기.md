@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 PC의 WSL에 Cloudflare Tunnel을 이용해 외부에서 SSH 접속하기"
 date: 2025-06-27 12:40:00 +0900
-categories: ['Dev-Log', 'Infrastructure']
+categories: ['Dev-Log', 'On-Premise']
 tags: ['WSL', 'SSH', 'Cloudflare', 'Tunnel', 'Windows 11', 'Remote Access']
 description: 공인 IP나 포트포워딩 없이 Cloudflare Tunnel로 WSL에 안전하게 원격 접속하는 완벽 가이드 
 ---

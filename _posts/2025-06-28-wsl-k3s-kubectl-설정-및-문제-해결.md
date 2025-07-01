@@ -1,7 +1,7 @@
 ---
 title: "WSL에서 k3s 설치 후 kubectl 기본 설정 및 트러블슈팅 가이드"
 date: 2025-06-28 00:49:00 +0900
-categories: ['Dev-Log', 'Kubernetes']
+categories: ['Dev-Log', 'On-Premise']
 tags: ['WSL', 'k3s', 'Kubernetes', 'kubectl', 'Troubleshooting']
 description: "WSL 환경에 경량 쿠버네티스 k3s를 설치하고, 초기 설정 중 발생하는 일반적인 문제들을 해결하는 트러블슈팅 가이드입니다."
 ---
