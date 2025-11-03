@@ -1,7 +1,7 @@
 ---
 title: "WSL2에서 Ingress를 활용한 마이크로서비스 배포 환경 구축 A-Z"
 date: 2025-07-01 23:46:00 +0900
-categories: ['Dev-Log', 'On-Premise']
+categories: ['DevOps', 'On-Premise']
 tags: ['WSL2', 'Kubernetes', 'Ingress', 'Microservices', 'Kustomize', 'Nginx']
 description: "WSL2 환경에서 Docker Desktop 없이 Nginx Ingress Controller와 Kustomize를 활용하여 마이크로서비스 배포 환경을 구축하고, 초기 설정 중 발생하는 문제들을 해결하는 가이드입니다."
 ---

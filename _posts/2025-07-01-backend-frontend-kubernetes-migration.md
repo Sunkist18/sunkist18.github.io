@@ -1,7 +1,7 @@
 ---
 title: "백엔드+프론트엔드 서비스 쿠버네티스 마이그레이션"
 date: 2025-07-01 23:59:00 +0900
-categories: ['Dev-Log', 'On-Premise']
+categories: ['DevOps', 'On-Premise']
 tags: ['Kubernetes', 'Migration', 'Microservices', 'Docker', 'Streamlit', 'Flask', 'Ingress']
 description: "단일 서버의 docker-compose 환경에서 실행되던 프론트엔드/백엔드 서비스를 쿠버네티스 클러스터의 독립적인 마이크로서비스로 마이그레이션하는 과정과 주요 트러블슈팅을 다룹니다."
 ---

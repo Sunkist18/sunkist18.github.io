@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare 터널과 WSL2 쿠버네티스 Ingress 연동 및 502 에러 해결법"
 date: 2025-07-01 23:54:00 +0900
-categories: ['Dev-Log', 'On-Premise']
+categories: ['DevOps', 'On-Premise']
 tags: ['WSL2', 'Kubernetes', 'Cloudflare', 'Tunnel', 'Ingress', 'Port Forwarding', 'Troubleshooting']
 description: "WSL2 쿠버네티스 환경을 Cloudflare 터널과 연동할 때 발생하는 502 Bad Gateway 에러의 근본 원인을 분석하고, 포트 포워딩 자동화 스크립트를 통한 완전한 해결책을 제시합니다."
 ---
