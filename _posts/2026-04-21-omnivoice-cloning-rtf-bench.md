@@ -1,8 +1,8 @@
 ---
 title: OmniVoice로 3초 음성 복제해보기
 date: 2026-04-21 14:00:00 +0900
-categories: [AI, TTS]
-tags: [omnivoice, mps, tts, voice-cloning, benchmark, apple-silicon]
+categories: [Dev, TTS]
+tags: [OmniVoice, TTS, 음성 복제, 벤치마크, Apple Silicon, MPS]
 description: 내 목소리 7초 녹음 하나로 10개 언어 cross-lingual 클로닝, 비언어 태그, RTF 벤치까지 Apple Silicon MPS에서 돌려본 기록
 ---
 

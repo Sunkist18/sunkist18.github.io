@@ -1,8 +1,8 @@
 ---  
 title: "U.S. Market Wrap | June 25, 2025"  
 date: 2025-06-26 08:00:00 +0900  
-categories: ['Essay', 'Stock']  
-tags: ["주식", "영작"]  
+categories: [Essay, Stock]  
+tags: [주식, 미국 증시, 영작]  
 description: "U.S. Market Summary | Wednesday, June 25, 2025"  
 image: https://image.cnbcfm.com/api/v1/image/108163951-1750868990033-gettyimages-2221354542-776342881_gyi-0625-capitol-hill_KKN.jpeg
 ---  

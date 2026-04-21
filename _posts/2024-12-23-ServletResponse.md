@@ -1,8 +1,8 @@
 ---
 title: "HttpServletResponse"
 date: 2024-12-23 01:33:00 +0900
-categories: ['Study-Log', 'Spring MVC Part I']
-tags: ["HTTP", "Servlet", "Response"]
+categories: [Study, Spring]
+tags: [Spring, Servlet, HTTP, Response]
 description: 서블릿 HTTP 응답 정리 📌
 ---
 

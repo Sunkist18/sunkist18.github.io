@@ -1,8 +1,8 @@
 ---
 title: "GET 쿼리와 Form 전송"
 date: 2024-12-17 05:55:00 +0900
-categories: ['Study-Log', 'Spring MVC Part I']
-tags: ['Servlet', 'HTTP', 'Request-Param', 'Form-Data']
+categories: [Study, Spring]
+tags: [Spring, Servlet, HTTP, Request Parameter, Form Data]
 description: HTTP 요청 Request 파라미터 데이터 처리 기초 😊
 ---
 

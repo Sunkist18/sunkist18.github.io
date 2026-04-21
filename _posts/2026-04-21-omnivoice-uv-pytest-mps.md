@@ -1,8 +1,8 @@
 ---
 title: OmniVoice를 Apple Silicon MPS로 TTS 돌려보기
 date: 2026-04-21 12:00:00 +0900
-categories: [AI, TTS]
-tags: [omnivoice, uv, mps, tts, apple-silicon]
+categories: [Dev, TTS]
+tags: [OmniVoice, TTS, uv, Apple Silicon, MPS]
 description: k2-fsa/OmniVoice 리포를 uv로 동기화하고 MPS에서 TTS 샘플 6개를 뽑아본 기록이에요.
 ---
 
