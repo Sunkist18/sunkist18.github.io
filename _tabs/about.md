@@ -4,168 +4,139 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![](assets/img/about/me.png){: width="200" height="200" .left }
-### 👋 안녕하세요! 
-새로운 도전과 성장을 추구하는 개발자 **최민우**입니다.  
-충남대학교 컴퓨터공학과에 2020년 입학해 현재 3학년에 재학 중이며,  
-**다양한 실무 경험**을 통해 꾸준히 **개발 역량**을 쌓아가고 있습니다.
+![](assets/img/about/me.png){: width="180" height="180" .left .shadow }
 
-`#백엔드 개발자`  `#파이썬 개발자`  `#RPA 솔루션 개발자`  
-`#알고리즘 문제 출제자`  `#서버 관리 및 자동화 전문가`
+### 최민우
 
-&nbsp;&nbsp;&nbsp;
+충남대학교 컴퓨터공학과 4학년 · 학부연구생  
+백엔드와 DevOps를 실무에서 다뤘고, 현재 MCP 기반 문서 자동화를 연구하고 있습니다.
 
+`Backend` · `DevOps` · `Automation` · `RPA`
 
-## 🤖 **군 복무와 RPA 경험** (소프트웨어 개발병)
-> 2021.10. - 2023.07. Software Dev, Military Service  
-![](assets/img/about/mil.png){: width="330" height="450" .right }
+[GitHub @Sunkist18](https://github.com/Sunkist18) · [chaeminu0711@gmail.com](mailto:chaeminu0711@gmail.com)
 
-군 복무 시절, **소프트웨어 개발병**으로 **RPA(로봇 프로세스 자동화)** 팀에 소속되어 업무 프로세스 효율화를 담당했습니다.  
-**Python**과 **UiPath**를 사용해 행정 업무를 자동화하고, 간부 피복비 자동 계산·지급 프로그램을 개발했습니다.  
-또한 포상 휴가 관리 시스템을 자동화해 부대 업무 효율을 크게 개선할 수 있었습니다.  
+&nbsp;
 
-이 경험을 통해 **자동화 기술의 가치**를 체감하고, 문제 해결 능력을 한층 발전시켰습니다.
+---
 
----  
-&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;
+## 학부 연구
 
+> **충남대학교 데이터네트워크연구실** · 지도교수 이영석 · 학부연구생
 
-## 💼 **스타트업에서의 성장**
-> 2023.09. - **현재** (Backend Dev)
+HWP 문서 제어를 위한 **MCP(Model Context Protocol) 서버**를 설계·구현했습니다. Windows COM API와 `pyhwpx`를 MCP 프로토콜로 감싸 LLM이 HWP 문서를 자연어로 제어할 수 있도록 했고, 자기 수정(Self-Correction) 메커니즘을 도입해 표 제어 과제에서 높은 성공률을 달성했습니다.
 
-[**Mockingbird**](https://mockingbird.co.kr/)에서 **백엔드 개발자**로 근무하며 다양한 프로젝트를 주도하고 있습니다.  
-![](assets/img/about/mockingbird.png){: width="500"}
+> **KSC 2025 포스터 발표** — 한국소프트웨어종합학술대회 (2025.12., 여수)  
+> _"HWP(한글) 문서 표 제어를 위한 MCP(Model Context Protocol) 설계 및 구현"_  
+> 최민우·이영석, 충남대학교
+{: .prompt-tip }
 
-- **080 수신거부 서비스 도입**  
-  Spring 프레임워크로 문자메시지 전송 로직에 080 수신거부 서비스를 통합하여 불법 스팸을 방지하고 서비스 신뢰도를 높였습니다.
+---
 
-- **결제 및 장바구니 시스템 개발**  
-  Spring과 토스 페이먼트 API를 활용해 결제 및 장바구니 기능을 구현하며 사용자 경험과 매출을 동시에 높였습니다.
+## Mockingbird
 
-- **서버 안정화 및 최적화**  
-  문제지 제작 서버의 트래픽 급증으로 인한 장애에 대응해 서버를 증설하고 객체 재사용 설계를 도입했습니다. 그 결과 처리 속도를 50배 향상시키며 안정적인 서비스 운영을 실현했습니다.  
+**Backend / DevOps Engineer** · 2023.09. – 2025.12. (27개월)
 
-- **쿠폰 기능 추가**  
-  데이터베이스 스키마를 설계하고 Spring을 이용해 쿠폰 생성·관리 기능을 도입함으로써 효과적인 마케팅 활동과 사용자 참여를 유도했습니다.
+![](assets/img/about/mockingbird.png){: .shadow }
+
+[**Mockingbird**](https://mockingbird.co.kr/)에서 서비스 개발부터 인프라 전환까지 주도했습니다.
+
+### 서버 안정화 및 최적화 · 50× 개선
+
+트위터 바이럴로 문제지 제작 서버에 트래픽이 몰려 장애가 발생했습니다. 서버 증설과 싱글턴 기반 객체 재사용 설계로 처리 속도를 **50배** 개선했습니다.
 
 > ![](assets/img/about/an.png)
-> 트위터 바이럴로 인해 문제지 제작 서버의 트래픽이 급증하면서 발생한 장애에 대응하기 위해 서버를 증설하고 객체 재사용 설계를 도입했습니다.
+> _트래픽 급증 시점 전후 서버 요청 그래프_
 {: .prompt-info }
 
-&nbsp;&nbsp;&nbsp;
+### AWS → 온프레미스 마이그레이션
 
-### 🤝 **B2B 외주 프로젝트와 클라이언트 협업**
+AWS 크레딧 소진에 따른 비용 절감을 위해 온프레미스 전환을 주도했습니다. Windows Server + WSL에서 시작해 docker-compose의 복구 한계를 넘어서기 위해 **k3s 클러스터**로 전환하고, **Cloudflare Tunnel + Ingress**로 외부 노출을 구성했습니다. 이후 Windows 병목을 해소하기 위해 Ubuntu 서버로 이전했습니다.
 
-**Mockingbird**에서 진행한 **B2B 외주 프로젝트**를 통해 다양한 클라이언트와 협업하며 전문성을 넓혔습니다.
+### 결제 · 장바구니 · 쿠폰 시스템
 
-![](assets/img/about/aa.png)
+Spring과 토스 페이먼츠 API로 결제·장바구니를 구현하고, DB 스키마 설계부터 쿠폰 관리 기능까지 담당했습니다.
+
+### 080 수신거부 서비스 도입
+
+문자메시지 전송 로직에 080 수신거부 연동을 통합했습니다.
+
+### B2B 외주 프로젝트
+
+![](assets/img/about/aa.png){: .shadow }
 
 {% include embed/video.html src='assets/video/mockingbird.mp4' poster='assets/img/about/mh.png' %}
 
-- [**모킹버드 B2B SaaS 문제은행 데모 사이트**](https://saas.demo.mockingbird.co.kr/)  
-  Windows 환경에서 Django 서버로 구축한 프로젝트입니다.  
-  백엔드 팀과 밀접하게 협력해 API와 DB 설계 등 핵심 기능 개발에 기여했습니다.
-
-- **개념원리 한글 변환기 개발**  
-  **개념원리**와 협력하여 HTML 파일을 HWPX로 변환하는 API 기반 프로그램을 만들었습니다.  
-  Python, Django, LATEX2HANTEX(자체 개발)을 활용해 변환기를 구현하고, 세부 문서화와 피드백을 충실히 반영해 성공적으로 마무리했습니다.
-
-- **Hidden KICE 채점 사이트 개발**  
-  백엔드와 데이터베이스 설계를 전담하고, AWS 배포와 DNS 연결을 통해 가용성과 접근성을 높였습니다.  
-  클라이언트 요구사항을 적극 반영해 높은 만족도를 이끌어냈습니다.
-
-- **시대인재 AI 자막 생성 서비스**  
-  **대형 MP4 파일 → Whisper API → SRT 자막 자동 생성** 파이프라인을 직접 설계했습니다.  
-  오픈AI Whisper API의 용량 제한(25MB)을 해결하기 위해 오디오 분할, 분산 처리, 타임스탬프 재조정, UI 피드백 제공 등 전체 워크플로우를 유기적으로 연결했습니다.  
-  결과적으로 대용량 교육 콘텐츠 생산 환경에서 자막 제작 비용과 시간을 크게 절감했으며 높은 자동화 수준을 인정받았습니다.
-
-> 이처럼 다양한 B2B 프로젝트를 수행하며 **클라이언트 협업 능력**과 **비즈니스 관점**에서의 개발 역량을 키울 수 있었습니다.  
-> 요구사항 분석부터 구현, 그리고 피드백 반영까지 모든 과정을 경험하며 협업과 커뮤니케이션의 중요성을 몸소 배웠습니다. 🌟  
-{: .prompt-tip }
+- **개념원리 HTML → HWPX 변환기** — Python, Django, LATEX2HANTEX(자체 개발)로 변환 API 구현
+- **Hidden KICE 채점 사이트** — 백엔드·DB 설계 전담, AWS 배포 및 DNS 구성
+- **시대인재 AI 자막 생성 서비스** — MP4 → Whisper API → SRT 파이프라인 설계. Whisper 25MB 제한을 오디오 분할·분산 처리·타임스탬프 재조정으로 해결
+- **Mockingbird B2B SaaS 문제은행** — Windows + Django 기반 구축, API·DB 설계 참여
 
 ---
 
-&nbsp;&nbsp;&nbsp;
+## 군 복무
 
-## 📝 **이전 경험과 프로젝트**
+**공군 소프트웨어 개발병** · 2021.10. – 2023.07.
 
-🎓 **제일학원** 근무 (2020.06. ~ 2021.03.)  
-> RPA Dev, JEIL ACADEMY  
+RPA 팀에서 **Python**과 **UiPath**로 행정 업무 자동화를 담당했습니다. 간부 피복비 자동 계산·지급 프로그램을 개발하고, 포상 휴가 관리 시스템을 자동화해 반복적인 서류 업무 시간을 대폭 단축시켰습니다. 이 시기에 취득한 **UiPath UIARD** 자격증은 이후 스타트업 B2B 자동화 프로젝트로 자연스럽게 이어졌습니다.
 
-- **이미지 변환 프로그램 개발**  
-  Python과 OpenCV를 활용해 PDF 이미지를 한글 문서로 변환하는 프로그램을 제작했습니다.
-
-- **영상 처리 자동화**  
-  수학 강의 영상에서 특정 시간대별 자동 타임라인 생성 프로그램을 개발해 강의 제작 시간을 크게 단축했습니다.
-
-- **매크로 개발**  
-  한글 매크로 및 Python을 사용해 수학교재에 QR 코드를 생성·자동 삽입하는 솔루션을 완성했습니다.
-
-- **자동 수학 문제 생성기**  
-  알고리즘 기반으로 문제를 자동 생성하는 프로그램을 개발해 교육 현장의 업무 효율을 높였습니다.
-
-📊 **충남대학교 데이터네트워크 연구실** (2021.05. ~ 2021.10.)  
-> 학부 연구생, Data Network Lab, CNU  
-
-- Django와 Chart.js로 DMOJ 온라인 저지 사이트의 **통계·차트 기능**을 개선했습니다.  
-- Python과 Discord API를 활용해 **튜터 매칭 디스코드 봇**을 개발했습니다.  
-- Ubuntu 환경에서 서버 구축 및 개발 환경을 세팅하고 운영했습니다.
+&nbsp;
 
 ---
 
-## 🌐 **알고리즘과 커뮤니티 기여**
-![](assets/img/about/aaa.png)
+## 이전 경험
+
+**충남대학교 데이터네트워크 연구실** — 학부연구생  
+_2021.05. – 2021.10._
+
+- Django와 Chart.js로 DMOJ 온라인 저지 사이트의 통계·차트 기능 개선
+- Python과 Discord API로 튜터 매칭 디스코드 봇 개발
+- Ubuntu 환경 서버 구축 및 운영
+
+**제일학원** — RPA Dev  
+_2020.06. – 2021.03._
+
+- Python과 OpenCV로 PDF 이미지 → 한글 문서 변환기 개발
+- 수학 강의 영상 타임라인 자동 생성기 개발
+- 한글 매크로 + Python으로 교재 QR 코드 자동 삽입 솔루션 개발
+- 알고리즘 기반 자동 수학 문제 생성기 개발
+
+---
+
+## 사이드 프로젝트 & 커뮤니티
+
+![](assets/img/about/aaa.png){: .shadow }
 _백준 온라인 저지에 출제한 알고리즘 문제 삽화_
 
-알고리즘에 대한 관심으로 🏆 **UCPC**, **SCPC**, **ICPC 2020 Korea** 등 다양한 경진대회에 참가하며 문제 해결 역량을 쌓았습니다.  
-또한 **백준 온라인 저지**에서 진행된 ["생각하는 프로그래밍 대회" 4회·5회](https://www.acmicpc.net/category/detail/2793)에 총 5문제를 직접 출제해,  
-개발자 커뮤니티 성장에 작은 보탬이 되었습니다.
+**백준 온라인 저지** ["생각하는 프로그래밍 대회" 4회·5회](https://www.acmicpc.net/category/detail/2793)에 총 **5문제**를 출제했습니다. UCPC, SCPC, ICPC 2020 Korea 등 알고리즘 경진대회에도 참가했습니다.
 
-## 🦠 **비대면 해결사**
-2020년 코로나19 확산으로 비대면 수업이 급증하던 시기에, 학생들이 사이버 강의를 효율적으로 관리하도록  
-Python, Selenium을 이용해 **사이버 강의 관리 프로그램**을 개발했고,  
-‘에브리타임’에 배포해 **500회 이상 다운로드**를 달성했습니다.  
-많은 학생들의 긍정적인 피드백은 제게 큰 보람이 되었습니다 🙏
-
+**비대면 해결사** · 2020  
+코로나19로 비대면 수업이 급증하던 시기, Python + Selenium으로 사이버 강의 관리 프로그램을 개발해 '에브리타임'에 배포했습니다. **500회 이상 다운로드**를 기록했습니다.
 
 ---
 
-## 🎯 **기술 스택과 학습 목표**
+## 기술 스택
 
-- **프로그래밍 언어**: Java, Python, C++  
-- **백엔드 프레임워크**: Spring, Django  
-- **데이터베이스**: MySQL, PostgreSQL  
-- **DevOps**: AWS, Docker, Kubernetes  
-- **기타**: RESTful API, Selenium, OpenCV  
-
-현재는 백엔드 개발자로서 **Spring**과 **Django**에 대한 전문성을 더욱 심화하고자 노력 중입니다.  
-**HTTP 프로토콜**과 **RESTful API**에 대한 이해도를 높여 확장성과 효율성을 갖춘 서버를 만들고자 합니다.  
-또한, 빠르게 변하는 IT 산업에서 뒤처지지 않도록 지속적으로 신기술을 학습하고 있습니다.
+| 분류 | 스택 |
+| --- | --- |
+| **언어** | Java · Python · C++ |
+| **백엔드** | Spring · Django |
+| **데이터베이스** | MySQL · PostgreSQL |
+| **DevOps / 인프라** | AWS · Docker · Kubernetes (k3s) · Cloudflare Tunnel · Ubuntu · WSL |
+| **기타** | RESTful API · Selenium · OpenCV |
 
 ---
 
-## 📜 **보유 자격증**
-![](assets/img/about/uipath.png){: width="500" height="500" }
-_[https://credentials.uipath.com/eccb5bc6-083e-49d8-b497-e7fb8086331f](https://credentials.uipath.com/eccb5bc6-083e-49d8-b497-e7fb8086331f#acc.NY6xsWK8)_
+## 자격증
 
-1. **UIARD (UiPath Advanced RPA Developer Certification)**  
-   - 발급기관: UiPath  
-   - 취득일자: 2022년 12월 1일  
+![](assets/img/about/uipath.png){: width="220" .normal .shadow }
 
-> RPA 분야에서의 전문성을 인정받아 UiPath Advanced RPA Developer Certification을 취득했습니다.  
-> 복잡한 업무 프로세스 자동화에 대한 이해와 실무 능력을 증명함으로써,  
-> 자동화 솔루션 개발에 대한 자신감을 더 높일 수 있었습니다.  
-{: .prompt-tip }
+**UIARD — UiPath Advanced RPA Developer Certification**  
+UiPath · 2022.12.01.  
+[인증서 확인 →](https://credentials.uipath.com/eccb5bc6-083e-49d8-b497-e7fb8086331f#acc.NY6xsWK8)
 
 ---
 
-## 🌱 **협업과 성장**
-![](assets/img/about/hr.jpg){: width="200" height="200" .right }
+## Contact
 
-개발은 혼자가 아닌 **함께 만들어 가는 과정**이라고 믿습니다.  
-다양한 팀 프로젝트와 협업 경험을 쌓으면서, 구성원 간 **신뢰**와 **소통**이 성공의 열쇠라는 것을 직접 배웠습니다.  
-문제 해결 시 팀원들과 다양한 아이디어를 공유하며 최적의 솔루션을 찾고,  
-클라이언트 요구를 정확히 이해하고 구현하는 전 과정을 함께하면서 협업의 가치와 즐거움을 느꼈습니다.  
-
-저는 앞으로도 팀원들의 강점은 극대화하고 약점은 보완하며, 서로에게 도움이 되는 **성장 지향적인 개발자**가 되겠습니다.
+- **GitHub** — [@Sunkist18](https://github.com/Sunkist18)
+- **Email** — [chaeminu0711@gmail.com](mailto:chaeminu0711@gmail.com)
