@@ -5,10 +5,6 @@ categories: [Dev, DevOps]
 tags: [opencode, Gradle, JDK, Java, 빌드, 무한대기]
 ---
 
-> 해당 포스트 작성에서 AI의 개입은 오탈자 수정 정도뿐이다.  
-> AI가 개입할수록 가독성이 떨어지는 것 같다.
-{: .prompt-info }
-
 opencode로 GPT와 Claude 모델을 함께 쓰고 있다.  
 최근에 Claude Code에서 opencode로 옮겼는데 세팅할 게 많았다.  
 세팅하고 테스트도 해보는 과정에서 AI가 무한대기하는 현상이 생겼다.
@@ -49,3 +45,7 @@ Gradle 8.11.1 버전은 JDK 23까지만 실행 환경으로 지원하는데 실�
 원인만 알면 해결은 쉽다.  
 Gradle 래퍼와 데몬이 지원하는 JDK 버전을 쓰도록 고정했다.  
 수정해 보니 Gradle이 실패해도 정상적으로 종료됐다.
+
+> 해당 포스트 작성에서 AI의 개입은 오탈자 수정 정도뿐이다.  
+> AI가 개입할수록 가독성이 떨어지는 것 같다.
+{: .prompt-info }
