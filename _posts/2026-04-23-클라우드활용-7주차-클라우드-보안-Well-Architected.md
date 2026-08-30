@@ -5,6 +5,7 @@ categories: [Dev, DevOps]
 tags: [클라우드활용, AWS, 보안, WellArchitected]
 description: "공동 책임 모델, 보안 서비스(WAF·GuardDuty·Shield), Well-Architected 6대 기둥을 정리하고 GuardDuty 탐지기 상태를 조회해 본 7주차 기록."
 image: assets/img/20260423/lecture_http_flood_waf.jpg
+published: false
 ---
 
 7주차는 클라우드 보안의 큰 그림을 다룬다. **공동 책임 모델**, 보안 서비스(**WAF·GuardDuty·Shield**), 그리고 **AWS Well-Architected Framework 6대 기둥** 이다. 개념 중심 주차라 강의 내용을 정리하고, 조회 가능한 부분(GuardDuty 탐지기 상태)은 CLI로 확인했다.

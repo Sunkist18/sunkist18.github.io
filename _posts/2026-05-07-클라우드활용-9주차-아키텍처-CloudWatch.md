@@ -5,6 +5,7 @@ categories: [Dev, DevOps]
 tags: [클라우드활용, AWS, 아키텍처, CloudWatch]
 description: "컴퓨팅·스토리지·DB·네트워크의 조합과 RDS 확장성 같은 아키텍처 기초를 정리하고, CloudWatch가 수집 중인 지표 네임스페이스를 조회해 본 9주차 기록."
 image: assets/img/20260507/lecture_rds_scaling.jpg
+published: false
 ---
 
 9주차는 **AWS 아키텍처의 기초 구성 요소**(컴퓨팅·스토리지·DB·네트워크의 조합, RDS 확장성)와 운영의 핵심인 **CloudWatch 모니터링** 을 다룬다. 아키텍처 설계는 개념·강의 화면으로, CloudWatch는 CLI로 조회해 정리했다.

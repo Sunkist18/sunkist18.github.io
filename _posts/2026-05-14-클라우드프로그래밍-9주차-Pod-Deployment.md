@@ -5,6 +5,7 @@ categories: [Dev, DevOps]
 tags: [클라우드프로그래밍, Kubernetes, Pod, Deployment]
 description: "쿠버네티스의 기본 단위 Pod와 이를 관리하는 Deployment를 다룬 9주차 기록. 파드 실행·조회·스케일·라벨, 그리고 디플로이먼트의 자가복구를 확인했다."
 image: assets/img/20260514/week09_hello_kiamol.png
+published: false
 ---
 
 9주차는 쿠버네티스의 가장 기본 단위인 **파드(Pod)** 와, 파드를 관리하는 컨트롤러 **디플로이먼트(Deployment)** 를 다룬다. 7주차에 구축한 클러스터(`kind-kiamol`)에서 `kubectl` 명령으로 진행했다.

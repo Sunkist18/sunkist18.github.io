@@ -5,6 +5,7 @@ categories: [Dev, DevOps]
 tags: [클라우드활용, AWS, CLI, CloudShell]
 description: "AWS를 다루는 여러 접근 방식(콘솔/CLI/SDK/API)과 인증 구조, CloudShell을 정리하고, 로컬 AWS CLI로 STS·리전 조회를 직접 해 본 2주차 기록."
 image: assets/img/20260326/lecture_console_ui.jpg
+published: false
 ---
 
 2주차는 AWS를 다루는 **여러 접근 방식**(웹 콘솔 / CLI / SDK / API)과 인증 구조, AWS CloudShell을 다룬다. 강의는 콘솔(GUI)·CloudShell 화면으로 진행되므로, 로컬에 AWS CLI를 구성해 같은 조회를 수행하고 콘솔/CloudShell 화면은 강의 화면으로 인용했다. 자격증명은 출력에 노출하지 않았고 계정 ID는 가렸다.

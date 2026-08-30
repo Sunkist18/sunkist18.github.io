@@ -5,6 +5,7 @@ categories: [Essay, Stock]
 tags: [주식, 미국 증시, 영작]  
 description: "U.S. Market Summary | Wednesday, June 25, 2025"  
 image: https://image.cnbcfm.com/api/v1/image/108163951-1750868990033-gettyimages-2221354542-776342881_gyi-0625-capitol-hill_KKN.jpeg
+published: false
 ---  
 
 ## 핵심 어휘 및 표현 정리

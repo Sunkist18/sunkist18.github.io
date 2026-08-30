@@ -5,6 +5,7 @@ categories: [Dev, DevOps]
 tags: [클라우드프로그래밍, Kubernetes, Prometheus, RBAC]
 description: "Prometheus로 메트릭을 수집·조회하고, RBAC로 클러스터 자원 접근을 제어한 14주차 기록. 한 학기 클라우드프로그래밍 과정의 마지막 주차다."
 image: assets/img/20260616/week14_prometheus_targets.png
+published: false
 ---
 
 마지막 14주차는 두 가지를 다룬다. **Prometheus** 로 메트릭을 수집·조회하는 것과, **RBAC** 로 클러스터 자원 접근을 제어하는 것이다. 7주차 클러스터에서 진행했다.

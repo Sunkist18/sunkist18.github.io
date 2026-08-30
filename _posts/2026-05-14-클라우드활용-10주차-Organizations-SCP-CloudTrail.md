@@ -5,6 +5,7 @@ categories: [Dev, DevOps]
 tags: [클라우드활용, AWS, Organizations, CloudTrail]
 description: "다계정 거버넌스(Organizations·OU·SCP) 개념과 CloudTrail 감사를 다룬 10주차 기록. CloudTrail lookup-events로 내 API 활동 로그를 직접 추적했다."
 image: assets/img/20260514/lecture_cloudtrail_events.jpg
+published: false
 ---
 
 10주차는 **다계정 환경의 거버넌스** — AWS Organizations(조직)·OU·**SCP(서비스 제어 정책)** 와, "누가 무슨 일을 했는지" 추적하는 **CloudTrail 감사** 를 다룬다. Organizations는 단일 계정이라 생성이 불가능해 개념+강의 화면으로, CloudTrail 감사는 CLI로 조회해 활동 로그를 직접 추적했다.
