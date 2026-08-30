@@ -1,6 +1,6 @@
 ---
 title: "How a runtime mismatch turned a quick failure into an endless wait"
-date: 2026-08-31 21:00:00 +0900
+date: 2026-08-31 00:20:00 +0900
 categories: [Dev, DevOps]
 tags: [opencode, Gradle, JDK, Java, 빌드, 무한대기]
 description: opencode로 옮기면서 Java 빌드마다 무한대기가 걸렸는데, 원인은 Gradle과 JDK의 버전 호환성 불일치였어요.
